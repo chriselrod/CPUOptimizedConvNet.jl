@@ -1,0 +1,3 @@
+[deps]
+CPUOptimizedConvNet = "13bb932b-e154-4569-821b-dfe7ce7f25e9"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
