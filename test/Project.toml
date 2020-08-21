@@ -1,0 +1,8 @@
+[deps]
+CPUOptimizedConvNet = "13bb932b-e154-4569-821b-dfe7ce7f25e9"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PaddedMatrices = "aaaacae8-1622-11e9-2a5c-532679323890"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StackPointers = "062a3e2c-34b1-4659-9cae-7af421e0d832"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

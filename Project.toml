@@ -3,11 +3,11 @@ uuid = "13bb932b-e154-4569-821b-dfe7ce7f25e9"
 authors = ["Chris Elrod <elrodc@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+PaddedMatrices = "aaaacae8-1622-11e9-2a5c-532679323890"
+StackPointers = "062a3e2c-34b1-4659-9cae-7af421e0d832"
+
 [compat]
 julia = "1.4"
 
-[extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test"]
